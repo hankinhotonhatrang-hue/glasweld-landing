@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ProVac Zoom – Sửa Kính Ô Tô Không Cần Khoan | GlasWeld</title>
+  <style>
+    /* Reset cơ bản */
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(135deg, #f4f6f8, #e0f0ff);
+      color: #333;
+      line-height: 1.6;
+    }
+
+    .container {
+      max-width: 1000px;
+      margin: 50px auto;
+      padding: 30px;
+      background: #fff;
+      border-radius: 20px;
+      box-shadow: 0 12px 30px rgba(0,0,0,0.15);
+    }
+
+    h1 {
+      text-align: center;
+      font-size: 2.4em;
+      color: #004aad;
+      margin-bottom: 25px;
+    }
+
+    h2 {
+      color: #004aad;
+      margin-top: 40px;
+      margin-bottom: 15px;
+      border-left: 6px solid #00b0ff;
+      padding-left: 12px;
+    }
+
+    p {
+      font-size: 1.1em;
+      margin-bottom: 15px;
+    }
+
+    ul {
+      padding-left: 25px;
+      margin-bottom: 20px;
+    }
+
+    ul li {
+      margin-bottom: 10px;
+    }
+
+    .highlight {
+      color: #e63946;
+      font-weight: bold;
+    }
+
+    img {
+      max-width: 100%;
+      border-radius: 20px;
+      margin: 25px 0;
+      transition: transform 0.3s, box-shadow 0.3s;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+    }
+
+    img:hover {
+      transform: scale(1.03);
+      box-shadow: 0 15px 35px rgba(0,0,0,0.25);
+    }
+
+    /* Nút Zalo & Gọi nổi */
+    .floating-buttons {
+      position: fixed;
+      right: 25px;
+      bottom: 25px;
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+      z-index: 1000;
+    }
+
+    .floating-buttons a {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 70px;
+      height: 70px;
+      border-radius: 50%;
+      color: #fff;
+      font-weight: bold;
+      text-decoration: none;
+      font-size: 17px;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+      transition: all 0.3s;
+    }
+
+    .floating-buttons a:hover {
+      transform: translateY(-5px) scale(1.1);
+      box-shadow: 0 12px 25px rgba(0,0,0,0.45);
+    }
+
+    .zalo {
+      background: linear-gradient(135deg, #0078FF, #00B0FF);
+    }
+
+    .call {
+      background: linear-gradient(135deg, #28A745, #51D88A);
+    }
+
+    /* Footer bản quyền */
+    footer {
+      text-align: center;
+      padding: 25px;
+      background: linear-gradient(135deg, #004aad, #00b0ff);
+      color: #fff;
+      font-size: 0.95em;
+      margin-top: 50px;
+      border-radius: 0 0 20px 20px;
+      box-shadow: 0 -4px 10px rgba(0,0,0,0.1);
+    }
+
+    /* Hiệu ứng nút CTA trong bài */
+    .btn-cta {
+      display: inline-block;
+      padding: 14px 28px;
+      background: linear-gradient(135deg, #004aad, #00b0ff);
+      color: #fff;
+      font-weight: bold;
+      border-radius: 10px;
+      text-decoration: none;
+      margin-top: 20px;
+      transition: all 0.3s;
+    }
+
+    .btn-cta:hover {
+      transform: translateY(-3px) scale(1.05);
+      box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🌟 ProVac Zoom – Sửa Kính Ô Tô Không Cần Khoan</h1>
+
+    <p>Bạn đang gặp vấn đề với <span class="highlight">kính ô tô bị nứt, vỡ</span> nhưng ngại khoan hay tháo rời kính? <strong>ProVac Zoom</strong> là giải pháp công nghệ tiên tiến từ GlasWeld, giúp bạn <strong>sửa kính ngay tại chỗ, nhanh chóng, an toàn và tiết kiệm chi phí</strong>.</p>
+
+    <h2>✅ Điểm Nổi Bật Của ProVac Zoom</h2>
+    <ul>
+      <li><strong>Sửa kính không khoan:</strong> Giữ nguyên tính toàn vẹn của kính.</li>
+      <li><strong>Nhanh chóng & hiệu quả:</strong> Vết nứt được phục hồi trong vài phút.</li>
+      <li><strong>Dễ sử dụng, tiện lợi:</strong> Thiết kế gọn nhẹ, dễ di chuyển.</li>
+      <li><strong>An toàn & thân thiện môi trường:</strong> Không dùng hóa chất mạnh.</li>
+    </ul>
+
+    <h2>🔧 Ứng Dụng Thực Tế</h2>
+    <ul>
+      <li>Sửa kính lái bị đá văng.</li>
+      <li>Xử lý vết nứt nhỏ trên cửa sổ ô tô.</li>
+      <li>Sửa kính tại chỗ, tiết kiệm thời gian và chi phí.</li>
+    </ul>
+
+    <h2>📌 Tại Sao Nên Chọn ProVac Zoom?</h2>
+    <p>ProVac Zoom là <strong>công nghệ tiên tiến hàng đầu</strong> trong ngành sửa kính ô tô, mang lại sự tiện lợi, an toàn và hiệu quả. Lý tưởng cho <strong>gara ô tô chuyên nghiệp</strong> hoặc <strong>chủ xe muốn tự sửa kính tại nhà</strong>.</p>
+
+    <a href="https://zalo.me/0337749560" class="btn-cta" target="_blank">📱 Liên hệ Zalo</a>
+    <a href="tel:0337749560" class="btn-cta">📞 Gọi ngay</a>
+  </div>
+
+  <!-- Nút Zalo & Gọi nổi -->
+  <div class="floating-buttons">
+    <a href="https://zalo.me/0337749560" class="zalo" target="_blank">Zalo</a>
+    <a href="tel:0337749560" class="call">Gọi</a>
+  </div>
+
+  <!-- Footer bản quyền -->
+  <footer>
+    © 2025 GlasWeld – Hàn Kính Ô Tô Nha Trang. All rights reserved.
+  </footer>
+</body>
+</html>
