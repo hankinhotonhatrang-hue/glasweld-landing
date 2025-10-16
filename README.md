@@ -100,8 +100,7 @@
           <a class="btn btn-call" href="tel:0337749560">📞 Gọi ngay</a>
         </div>
         <div style="margin-top:10px;font-size:.95rem;color:var(--muted)"><strong>Địa chỉ:</strong> Khu Tái định cư Bầu Gáo, Diên Khánh, Khánh Hòa</div>
-        <div style="margin-top:8px;font-size:.95rem"><strong>Website:</strong> <a href="https://hankinhotonhatrang.vn" target="_blank" rel="noopener">hankinhotonhatrang.vn</a></div>
-      </aside>
+              </aside>
     </section>
 
     <section style="margin-top:18px">
